@@ -1,0 +1,14 @@
+[
+    {
+        "policy_number": "POL1003",
+        "customer_name": "broo",
+        "premium": 18000,
+        "status": "Active"
+    },
+    {
+        "policy_number": "POL1004",
+        "customer_name": "Manu",
+        "premium": 20000,
+        "status": "Active"
+    }
+]
